@@ -1,4 +1,8 @@
-# Ex:2a Stop and Wait Protocol
+# Ex: 2a Stop and Wait Protocol
+
+# Name: Sri Vignesh G
+# Register Number: 212223040204
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 
